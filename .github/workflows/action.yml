@@ -32,4 +32,3 @@ jobs:
         user: ${{ secrets.USERNAME }}
         # Private key
         key: ${{ secrets.SSH2 }}
-        passphrase: ${{ secrets.PASSPHRASE }}
